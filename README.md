@@ -10,7 +10,7 @@ We have re-implmented the paper "Identity Mappings in Deep Residual Networks" (h
 
 0. The experiments have been conducted with the beta-20 version of [MatConvNet](https://github.com/vlfeat/matconvnet), which is included in the current project.
 
-0. In this version of  [MatConvNet](https://github.com/vlfeat/matconvnet), the momentum is stored at end of every epoch.
+0. In this version of  [MatConvNet](https://github.com/vlfeat/matconvnet), *the momentum is stored* at the end of every epoch.
 
 0. The code has been evaluated on CIFAR-10 and CIFAR-100 for depth 164. 
 
